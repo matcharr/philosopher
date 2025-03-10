@@ -1,0 +1,4 @@
+philo_bonus
+*.o
+.DS_Store
+*.dSYM
